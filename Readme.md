@@ -4,7 +4,7 @@ A simple command-line tool to convert MP4 video files to MP3 audio files using F
 
 ## Requirements
 
-- Python 3.6 or higher
+- Python 3.9 or higher
 - FFmpeg (see installation instructions below)
 
 ## FFmpeg Installation
